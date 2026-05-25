@@ -51,11 +51,5 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **Towing capacity** | ~6,167 lbs (trailer axle × 1.15) | ~9,000 lbs (mountain-derated) | **✓ GREEN — ~2,833 lbs headroom** |
 | **Trailer GVWR** | ~6,167 lbs | 6,995 lbs (trailer sticker) | **✓ GREEN — ~828 lbs headroom** |
 
-## Weight Management Tips
-
-| **Water management** | **Gear placement** |
-| --- | --- |
-| Leave Phoenix with only ~10 gal in fresh tank. Fill at campsite. Saves ~225 lbs vs. full tank. | Put all gear in the trailer — not the truck bed. Gear in trailer costs only ~10–15% as much payload vs. gear in the truck. |
-| Full 37-gal tank = 308 lbs. 10 gal = 83 lbs. Difference: 225 lbs — nearly all your trailer GVWR buffer. | Example: 50 lb bikes in trailer = ~6 lbs against truck payload. Same bikes in truck bed = full 50 lbs against payload. |
-
-> All weights are estimates based on typical values and may vary. Use a CAT scale on your first loaded trip to get real numbers — Pilot Flying J at I-17 / Anthem is convenient heading north. These estimates assume smart loading (gear in trailer) and partial water fill (20 gal). If you load the truck bed with gear or fill the water tank before leaving Phoenix, re-run the trailer GVWR check — that is the tightest constraint in this setup.
+## Gear and Weight Breakdown
+TODO
