@@ -14,16 +14,17 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **People subtotal** | **635 lbs** |  |
 | **ITEMS IN TRUCK** |
 | **Snacks, drinks, day bags** | ~20 lbs | Keep minimal — everything else goes in trailer |
-| **In-truck subtotal** | **~20 lbs** |  |
+| **Portable generator (Honda EU2200i)** | ~53 lbs | 47 lbs dry + ~6 lbs fuel; move to trailer column if stored in pass-through instead |
+| **In-truck subtotal** | **~73 lbs** |  |
 | **TRAILER TONGUE WEIGHT** |
 | **Tongue weight (13% of ~6,500 lb loaded trailer)** | ~650 lbs | Only this portion of trailer weight counts against truck |
 | **TRUCK PAYLOAD TOTAL vs THRESHOLD** |
-| **Total truck payload used** | **~1,305 lbs** | People + in-truck items + tongue weight |
+| **Total truck payload used** | **~1,358 lbs** | People + in-truck items + tongue weight |
 | **Lariat payload budget (est.)** | **~1,800 lbs** | Door jamb GVWR minus curb weight |
 | **Lariat curb weight (est.)** | ~5,250 lbs | Varies by config — verify on window sticker |
-| **Total truck weight (est.)** | ~6,555 lbs | |
+| **Total truck weight (est.)** | ~6,608 lbs | |
 | **Lariat door jamb GVWR (est.)** | **~7,050 lbs** | Verify on your specific truck sticker |
-| **Headroom remaining** | **~495 lbs ✓** | ~73% used — COMFORTABLE (green zone) |
+| **Headroom remaining** | **~442 lbs ✓** | ~76% used — COMFORTABLE (green zone) |
 
 ## Trailer GVWR Budget
 
@@ -47,6 +48,8 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **Total trailer weight (est.)** | **~6,207 lbs** | Dry weight + gear + partial water |
 | **Trailer GVWR (est.)** | **6,995 lbs** | Fixed spec — trailer sticker |
 | **Headroom remaining** | **~788 lbs ✓** | ~89% used — WATCH THIS (fills up with extra firewood, more water, added gear) |
+
+> ⚠️ **Generator storage note:** If the Honda EU2200i (~53 lbs loaded) is stored in the trailer's pass-through compartment instead of the truck bed, move it from the truck payload column above to the trailer gear subtotal below, and recalculate both columns accordingly.
 
 
 ## Go / No-Go Summary for This Setup
@@ -174,4 +177,3 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | Clothing & Personal | ~52.2 lbs |
 | Misc / Tools | ~6.8 lbs |
 | **Grand Total** | **~326.8 lbs** |
-
