@@ -6,3 +6,6 @@
 * Is wireless charging included?
 * Will the Lariat fit in my garage?
 * What is the Auto Stop Start situation?
+* Is there a backup camera?
+* Do the side mirrors have blind spot checking?
+* How much space is there in the back?
