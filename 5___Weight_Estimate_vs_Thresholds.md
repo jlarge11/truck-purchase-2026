@@ -19,10 +19,10 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **Tongue weight (13% of ~6,500 lb loaded trailer)** | ~650 lbs | Only this portion of trailer weight counts against truck |
 | **TRUCK PAYLOAD TOTAL vs THRESHOLD** |
 | **Total truck payload used** | **~1,305 lbs** | People + in-truck items + tongue weight |
+| **Lariat payload budget (est.)** | **~1,800 lbs** | Door jamb GVWR minus curb weight |
 | **Lariat curb weight (est.)** | ~5,250 lbs | Varies by config — verify on window sticker |
 | **Total truck weight (est.)** | ~6,555 lbs | |
 | **Lariat door jamb GVWR (est.)** | **~7,050 lbs** | Verify on your specific truck sticker |
-| **Lariat payload budget (est.)** | **~1,800 lbs** | Door jamb GVWR minus curb weight |
 | **Headroom remaining** | **~495 lbs ✓** | ~73% used — COMFORTABLE (green zone) |
 
 ## Trailer GVWR Budget
@@ -42,10 +42,10 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **Fresh water (partial — 20 gal at 8.34 lbs/gal)** | ~167 lbs | Fill to full at campsite — don't leave Phoenix full |
 | **TRAILER LOADED TOTAL vs THRESHOLD** |
 | **Total trailer payload used** | 509 lbs  | Gear + 20 gal water |
+| **Trailer payload budget (est.)** | 1,297 lbs | Door jamb GVWR minus curb weight |
 | **Trailer dry weight (est.)** | 5,698 lbs | Factory spec — empty trailer off the lot |
 | **Total trailer weight (est.)** | **~6,207 lbs** | Dry weight + gear + partial water |
 | **Trailer GVWR (est.)** | **6,995 lbs** | Fixed spec — trailer sticker |
-| **Trailer payload budget (est.)** | 1,297 lbs | Door jamb GVWR minus curb weight |
 | **Headroom remaining** | **~788 lbs ✓** | ~89% used — WATCH THIS (fills up with extra firewood, more water, added gear) |
 
 
