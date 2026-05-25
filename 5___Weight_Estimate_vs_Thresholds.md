@@ -31,25 +31,25 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **22BHE dry weight** | 5,698 lbs | Factory spec — empty trailer off the lot |
 | **GEAR & SUPPLIES (in trailer)** |
 | **Food (all meals, snacks, coffee)** | ~30 lbs | See Gear and Weight Breakdown below |
-| **Outdoor / recreation gear** | ~136 lbs | See Gear and Weight Breakdown below |
+| **Outdoor / recreation gear** | ~167 lbs | See Gear and Weight Breakdown below |
 | **Cooking & campfire** | ~80 lbs | See Gear and Weight Breakdown below |
 | **Clothing & personal** | ~60 lbs | See Gear and Weight Breakdown below |
 | **Misc / tools** | ~16 lbs | See Gear and Weight Breakdown below |
-| **Gear subtotal** | **~322 lbs** |  |
+| **Gear subtotal** | **~342 lbs** |  |
 | **WATER** |
 | **Fresh water (partial — 20 gal at 8.34 lbs/gal)** | ~167 lbs | Fill to full at campsite — don't leave Phoenix full |
 | **TRAILER LOADED TOTAL vs THRESHOLD** |
-| **Est. loaded trailer weight** | **~6,187 lbs** | Dry weight + gear + partial water |
+| **Est. loaded trailer weight** | **~6,207 lbs** | Dry weight + gear + partial water |
 | **22BHE GVWR** | **6,995 lbs** | Fixed spec — trailer sticker |
-| **Headroom remaining** | **~808 lbs ✓** | ~88% used — WATCH THIS (fills up with extra firewood, more water, added gear) |
+| **Headroom remaining** | **~788 lbs ✓** | ~89% used — WATCH THIS (fills up with extra firewood, more water, added gear) |
 
 ## Go / No-Go Summary for This Setup
 
 | **Check** | **Estimated value** | **Threshold** | **Status** |
 | --- | --- | --- | --- |
 | **Truck GVWR** | ~5,400 lbs (steer + drive axle) | ~7,050 lbs (door jamb) | **✓ GREEN — ~1,650 lbs headroom** |
-| **Towing capacity** | ~6,187 lbs (trailer axle × 1.15) | ~9,000 lbs (mountain-derated) | **✓ GREEN — ~2,813 lbs headroom** |
-| **Trailer GVWR** | ~6,187 lbs | 6,995 lbs (trailer sticker) | **✓ GREEN — ~808 lbs headroom** |
+| **Towing capacity** | ~6,207 lbs (trailer axle × 1.15) | ~9,000 lbs (mountain-derated) | **✓ GREEN — ~2,793 lbs headroom** |
+| **Trailer GVWR** | ~6,207 lbs | 6,995 lbs (trailer sticker) | **✓ GREEN — ~788 lbs headroom** |
 
 ## Gear and Weight Breakdown
 
@@ -71,11 +71,11 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | Splenda | 0.5 lbs |  |
 | **Food subtotal** | **~24.5 lbs** |  |
 
-### 🚴 Outdoor & Recreation (~136 lbs)
+### 🚴 Outdoor & Recreation (~167 lbs)
 
 | **Item** | **Est. Weight** | **Notes** |
 | --- | --- | --- |
-| Kayaks | 60 lbs | 2× rec kayaks ~30 lbs each |
+| Kayaks | 80 lbs | 2× kayaks ~40 lbs each |
 | Life Jackets | 8 lbs | 4× PFDs ~2 lbs each |
 | Bicycles | 40 lbs | 2× bikes ~20 lbs each |
 | Lawn chairs | 8 lbs | 4× camp chairs ~2 lbs each |
@@ -88,7 +88,7 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | Rip Stick | 3 lbs |  |
 | Camelbak | 1 lb | Empty; water added at camp |
 | Board Games | 5 lbs |  |
-| **Outdoor subtotal** | **~146.5 lbs** |  |
+| **Outdoor subtotal** | **~166.5 lbs** |  |
 
 > ⚠️ **Note:** Kayaks are large and heavy — confirm they fit in or on the trailer, not the truck bed, to preserve payload.
 
@@ -163,9 +163,9 @@ Based on: F-150 Lariat SuperCrew 4×4 + Grand Design Imagine XLS 22BHE. Family o
 | **Category** | **Est. Weight** |
 | --- | --- |
 | Food & Drinks | ~24.5 lbs |
-| Outdoor & Recreation | ~146.5 lbs |
+| Outdoor & Recreation | ~166.5 lbs |
 | Cooking & Campfire | ~76.8 lbs |
 | Clothing & Personal | ~52.2 lbs |
 | Misc / Tools | ~6.8 lbs |
-| **Grand Total** | **~306.8 lbs** |
+| **Grand Total** | **~326.8 lbs** |
 
