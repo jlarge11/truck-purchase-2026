@@ -2,11 +2,11 @@
 
 | **Build** | **Trim** | **Engine** | **Max Tow** | **Key Options** | **Est. Net Price** | **Link** |
 | --- | --- | --- | --- | --- | --- | --- |
-| **F-150 Lariat 501A** | Lariat | 3.5L EcoBoost | 13,500 lbs | Argon Blue, Max Tow Axle, FX4, Hard Tonneau, Spray-In Bedliner, Moonroof | $75,645 | [Open](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C...PE9...96X.SS6.96W.55A.CCAB.43V.779.XL5.%5D) |
-| **F-150 XLT 303A** | XLT | 3.5L EcoBoost | 13,500 lbs | Marsh Gray, Max Tow Axle, FX4, Hard Tonneau, Spray-In Bedliner, Moonroof, Cloth seats | $73,155 | [Open](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C303A...PT9...96X.SS6.A9JAC.96W.55A.53T.CCAB.43V.775.XL9.U05.%5D) |
-| **Silverado LTZ** | LTZ | 5.3L V8 | ~11,300 lbs | Sterling Gray, Max Trailering Pkg (NHT), Hard Tonneau, Spray-In Bedliner, Leather seats | $67,140 | [Open](https://www.chevrolet.com/build/M2NVJI) |
-| **Tundra Limited iForce MAX** | Limited | iForce MAX V6 Hybrid | ~11,450 lbs | Lunar Rock, Hard Tri-Fold Tonneau, Spray-On Bedliner, Leather, Class-IV hitch + trailer brake controller standard | $66,034 | [Open](https://www.toyota.com/configurator/build/step/summary/year/2026/series/tundra/model/8431/exteriorcolor/06X3/interiorcolor/LD13/packages/FE/accessories/5A-LB/) |
-| **Sierra SLT** | SLT | 5.3L V8 | ~11,300 lbs | Sterling Metallic, Max Trailering Pkg (NHT), ProGrade Trailering, Hard Tonneau, Spray-In Bedliner, Leather, Ventilated seats, Sunroof | $68,975 | [Open](https://www.gmc.com/build/V6RLBI) |
+| **Ford F-150 Lariat 501A** | Lariat | 3.5L EcoBoost | 13,500 lbs | Argon Blue, Max Tow Axle, FX4, Hard Tonneau, Spray-In Bedliner, Moonroof | $75,645 | [Open](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C...PE9...96X.SS6.96W.55A.CCAB.43V.779.XL5.%5D) |
+| **Ford F-150 XLT 303A** | XLT | 3.5L EcoBoost | 13,500 lbs | Marsh Gray, Max Tow Axle, FX4, Hard Tonneau, Spray-In Bedliner, Moonroof, Cloth seats | $73,155 | [Open](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C303A...PT9...96X.SS6.A9JAC.96W.55A.53T.CCAB.43V.775.XL9.U05.%5D) |
+| **Chevrolet Silverado LTZ** | LTZ | 5.3L V8 | ~11,300 lbs | Sterling Gray, Max Trailering Pkg (NHT), Hard Tonneau, Spray-In Bedliner, Leather seats | $67,140 | [Open](https://www.chevrolet.com/build/M2NVJI) |
+| **Toyota Tundra Limited iForce MAX** | Limited | iForce MAX V6 Hybrid | ~11,450 lbs | Lunar Rock, Hard Tri-Fold Tonneau, Spray-On Bedliner, Leather, Class-IV hitch + trailer brake controller standard | $66,034 | [Open](https://www.toyota.com/configurator/build/step/summary/year/2026/series/tundra/model/8431/exteriorcolor/06X3/interiorcolor/LD13/packages/FE/accessories/5A-LB/) |
+| **GMC Sierra SLT** | SLT | 5.3L V8 | ~11,300 lbs | Sterling Metallic, Max Trailering Pkg (NHT), ProGrade Trailering, Hard Tonneau, Spray-In Bedliner, Leather, Ventilated seats, Sunroof | $68,975 | [Open](https://www.gmc.com/build/V6RLBI) |
 
 ## Notes
 - All builds: Crew Cab, 4WD, Standard/6.5' bed, 2026 model year
