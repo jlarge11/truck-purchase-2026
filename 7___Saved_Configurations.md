@@ -2,4 +2,4 @@
 
 | **Build** | **Est. Net Price** |
 | --- | --- |
-| [F-150 Lariat](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C......89S.96X.SS6.A9JAC.96W.CCAB.43V.64L.779.%5D) | $72,595 |
+| [F-150 Lariat](https://shop.ford.com/configure/f150/config/summary/Config%255B%257CFord%257CF-150%2520F-150%257C2026%257C1%257C1.%257C...PHX...89S.96X.SS5.A9JAC.96W.55A.CCAB.43V.AWD.779.XL5.%255D) | $75,110 |
