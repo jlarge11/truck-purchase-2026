@@ -9,3 +9,4 @@
 * Is there a backup camera?
 * Do the side mirrors have blind spot checking?
 * How much space is there in the back?
+* How do I unlock the truck?
