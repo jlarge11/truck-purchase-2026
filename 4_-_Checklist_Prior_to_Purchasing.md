@@ -10,3 +10,5 @@
 * Do the side mirrors have blind spot checking?
 * How much space is there in the back?
 * How do I unlock the truck?
+* Verify the exact payload number on the door jamb sticker of whichever specific truck you buy
+* Confirm Max Tow Axle is on the window sticker
