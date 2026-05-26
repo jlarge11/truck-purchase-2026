@@ -2,9 +2,9 @@
 
 Links to saved F-150 configurations on Ford's Build & Price tool. All builds are 2026 F-150 Lariat SuperCrew 4×4 6.5' box with 3.5L EcoBoost + Max Tow Axle.
 
-| **Build** | **Key Differences** | **Link** |
-| --- | --- | --- |
-| **Antimatter Blue — Hard Tonneau** | Antimatter Blue Metallic, Hard Folding Tonneau Cover (96X), Spray-In Bedliner, 501A | [Open in configurator](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C......89S.96X.SS6.A9JAC.96W.CCAB.43V.64L.779.%5D) |
+| **Build** | **Key Differences** | **Est. Net Price** | **Link** |
+| --- | --- | --- | --- |
+| **Antimatter Blue — Hard Tonneau** | Antimatter Blue Metallic, Hard Folding Tonneau Cover (96X), Spray-In Bedliner, 501A | $72,595 | [Open in configurator](https://shop.ford.com/configure/f150/config/summary/Config%5B%7CFord%7CF-150%20F-150%7C2026%7C1%7C1.%7C......89S.96X.SS6.A9JAC.96W.CCAB.43V.64L.779.%5D) |
 
 ## Option Code Key (for reference)
 
