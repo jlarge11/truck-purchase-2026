@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f766a5fd-2267-4b67-bdac-18ad2aa4e5fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/1___F-150_XLT_vs_Lariat.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2___Truck_Brand_Comparison.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_-_Checklist_Prior_to_Purchasing.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_-_Checklist_Prior_to_Purchasing.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
