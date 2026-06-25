@@ -15,7 +15,7 @@ Research and decision tracking for a 2026/2027 Ford F-150 purchase.
 | Color | Argon Blue Metallic |
 | Key Options | Twin Panel Moonroof, ToughBed Spray-In Bedliner, Hard Folding Tonneau Cover |
 | Equipment Group | Lariat 501A Mid |
-| Est. Net Price | ~5,645 |
+| Est. Net Price | ~$75,645 |
 
 ## Use Case
 
@@ -25,9 +25,9 @@ Towing rental travel trailers (lighter class, e.g. ~4,950–6,395 lb GVWR) from 
 
 Configuration is finalized. Acquisition plan:
 
-1. **Periodically check AZ valley inventory** for a Lariat 501A with 3.5L EcoBoost + moonroof. Reliable search method: KBB and direct dealer sites (not Edmunds radius filtering). Earnhardt Ford (Gilbert & Riggs) is the closest dealer.
+1. **Periodically check AZ valley inventory** for a Lariat 501A with 3.5L EcoBoost + moonroof. Reliable search method: KBB and direct dealer sites (not Edmunds radius filtering). San Tan Ford (202 & Val Vista, Gilbert — 1429 E Motorplex Loop) is the closest dealer.
 2. **Test drive soon** on any nearby Lariat 501A SuperCrew with 3.5L EcoBoost to evaluate seats, SYNC 4 screen, and 10-speed feel before committing.
-3. **2027 order bank (~September 2026)** — expected carryover year with minimal changes and a small price increase. Plan to engage Earnhardt in late August to get on their order list.
+3. **2027 order bank (~September 2026)** — expected carryover year with minimal changes and a small price increase. Plan to engage San Tan Ford in late August to get on their order list.
 
 > Note: The 2026 retail order bank closed December 22, 2025. Lot trucks are the only 2026 path; the 2027 order bank is the clean-slate option.
 
